@@ -15,7 +15,7 @@ import { getFirestore, addDoc, collection, limitToLast } from "firebase/firestor
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDwGqM2MO9gavw8Sd1CMgeaW48Slp-ZAR4",
+  apiKey: //provide yours,
   authDomain: "netflix-clone-787c1.firebaseapp.com",
   projectId: "netflix-clone-787c1",
   storageBucket: "netflix-clone-787c1.appspot.com",
